@@ -1,4 +1,4 @@
-## Olá eu sou o Guilherme Rodrigues, desenvolverdor Full Stack!
+## Olá eu sou o Guilherme Rodrigues, desenvolvedor Full Stack!
 Bem vindos, por aqui voce vai achar vários projetos que fiz ao longo de minha caminhada. Fique a vontade pra dar sua opinião ou melhora-lós.
 Desenvolvedor Full-Stack Junior com muita vontade de aprender. Com formação em Desenvolvimento Web Full Stack pela Trybe e cursando Engenharia da Computação. Dedicado à escrever código limpo, fácil de ler, escalável, e testado, tendo construído mais de 25 projetos incluindo tecnologias como HTML, CSS, React, Javascript, Typescript, Node.js, PHP, Python, Mongo e MySQL nos últimos anos, e no momento, aprendendo desenvolvimento mobile. Adoro trabalhar em ambientes onde as minhas habilidades podem ser constantemente desafiadas não só a melhorar, mas também para inovar e revolucionar produtos ou serviços. Estou ansioso para trabalhar remotamente com pessoas de todo o Brasil.
 <div align="center">
