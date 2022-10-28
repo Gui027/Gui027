@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04BF9Dsize=55&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Guilherme+Rodrigues;Desenvolvedor+Full+Stack;Formado+em+Desenvolvimento+Web+pela+Trybe;Cursando+Engenharia+da+Computação;Já+construi+mais+de+50+projetos;Incluindo+tecnologias+como:;JavaScript;Typescript;React;Node;PHP;Python;Kotlin;Mongo;MySQL;E+centenas+bibliotecas+de+cada+linguagem+citada;Estou+ansioso+para+trabalhar+remotamente;Com+pessoas+de+todo+o+Brasil.)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gui027&show_icons=true&count_private=true&hide_border=true&title_color=027373&icon_color=F2668B&text_color=03A688&bg_color=0d1117" alt="Guilherme Rodrigues github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui027&layout=compact&hide_border=true&title_color=5FCDD9&text_color=F2668B&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gui027&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=027373&icon_color=F2668B&text_color=03A688&bg_color=0d1117" alt="Guilherme Rodrigues github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui027&layout=compact&hide_border=true&langs_count=10&title_color=5FCDD9&text_color=F2668B&bg_color=0d1117" />
 </div>
 
 <div align="center" style="display: inline-block"><br>
