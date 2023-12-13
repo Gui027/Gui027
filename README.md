@@ -6,8 +6,8 @@ Eu sou um Dev Full Stack. Atualmente trabalho como desenvolvedor web e mobile. �
 📲 Front-end Mobile com React Native  
 🌎 Front-end Web com Reactjs  
 📡 Back-end com Nodejs e Prisma   
-🛠️ Typescript
-🐍 Python
+🛠️ Typescript   
+🐍 Python   
 🧰 E mais...  
 
 #### 💬 Tem alguma dúvida ? Entre em contato !
