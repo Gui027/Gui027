@@ -5,7 +5,7 @@ Eu sou um Dev Full Stack. Atualmente trabalho como desenvolvedor web e mobile. �
 #### Minhas ferramentas atuais
 📲 Front-end Mobile com React Native  
 🌎 Front-end Web com Reactjs  
-📡 Back-end com Nodejs e Prisma   
+📡 Back-end com Nodejs, Prisma e Spring   
 🛠️ Typescript   
 🐍 Python   
 🧰 E mais...  
